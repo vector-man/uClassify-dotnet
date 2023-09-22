@@ -1,5 +1,5 @@
 # uClassify-dotnet
-uClassify-dotnet, based on TextClassifier, is a .NET library for uClassify.com. uClassify.com is a machine learning web service where you can easily create and use text classifiers.
+uClassify-dotnet, based on TextClassifier by Udy Dhansingh, is a .NET library for uClassify.com. uClassify.com is a machine learning web service where you can easily create and use text classifiers.
 
 It has three dependencies:
 * Newtonsoft.Json;
